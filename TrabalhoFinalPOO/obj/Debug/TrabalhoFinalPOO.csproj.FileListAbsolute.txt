@@ -1,0 +1,264 @@
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MENU.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCliente.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCliente.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCliente.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarClientes.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCliente.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCarro.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCarro.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarCarros.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCarro.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCarro.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCarro.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.AdicionarTransação.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.BuscarTransação.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarTransação.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirTransação.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarTransações.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuTransação.resources
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.config
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCliente.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.config
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.application
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.AssemblyReference.cache
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.AdicionarTransação.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.BuscarTransação.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCarro.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarTransação.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCarro.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirTransação.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarCarros.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarTransações.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuTransação.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCarro.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCarro.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCliente.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCliente.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCliente.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarClientes.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MENU.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCarro.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCliente.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCliente.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.Properties.Resources.resources
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.GenerateResource.cache
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.application
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe
+C:\Users\Estudo\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.AssemblyReference.cache
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.config
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.application
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.pdb
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.AssemblyReference.cache
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.AdicionarTransação.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.BuscarTransação.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCarro.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarTransação.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCarro.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirTransação.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarCarros.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarTransações.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuTransação.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCarro.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCarro.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCliente.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCliente.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCliente.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarClientes.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MENU.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCarro.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCliente.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCliente.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.Properties.Resources.resources
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.GenerateResource.cache
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.application
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe
+C:\Users\AGF\Desktop\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.config
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.AdicionarTransação.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.BuscarTransação.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCarro.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarTransação.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCarro.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirTransação.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarCarros.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarTransações.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuTransação.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCarro.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCarro.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCliente.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCliente.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCliente.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarClientes.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MENU.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCarro.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCliente.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCliente.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.Properties.Resources.resources
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Downloads\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.config
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.AdicionarTransação.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.BuscarTransação.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCarro.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarTransação.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCarro.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirTransação.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarCarros.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarTransações.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuTransação.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCarro.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCarro.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCliente.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCliente.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCliente.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarClientes.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MENU.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCarro.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCliente.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCliente.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Desktop\ATUAL TRABALHO\Trabalho POO\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.config
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCarro.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCarro.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarCarros.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuTransação.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCarro.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCarro.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCliente.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCliente.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCliente.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarClientes.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MENU.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCarro.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCliente.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCliente.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuComprar.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroVenda.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ComprarCarro.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.DesfazerCompraDeCarro.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarEstoqueCarros.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.DesfazerVendaDeCarro.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuVendas.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarVenda.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCompras.resources
+C:\Users\Matheus Antão\Desktop\WINDOWSFORMS\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListandoVendas.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.config
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\bin\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ComprarCarro.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroVenda.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.DesfazerCompraDeCarro.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.DesfazerVendaDeCarro.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListandoVendas.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarEstoqueCarros.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuComprar.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCarro.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCarro.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarCarros.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuTransação.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuVendas.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCarro.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCarro.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCliente.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCliente.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCliente.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarClientes.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MENU.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCarro.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCliente.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCliente.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCompras.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarVenda.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe.manifest
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.application
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Desktop\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.pdb
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ComprarCarro.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroVenda.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.DesfazerCompraDeCarro.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.DesfazerVendaDeCarro.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListandoVendas.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarEstoqueCarros.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuComprar.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCarro.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCarro.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarCarros.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuTransação.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuVendas.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCarro.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCarro.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.CadastroCliente.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.EditarCliente.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ExcluirCliente.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.ListarClientes.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MENU.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCarro.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.MenuCliente.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCliente.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarCompras.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.PesquisarVenda.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.exe
+C:\Users\Matheus Antão\Desktop\MATHEUS\ULTIMA VERSAO TRABALHO FINAL POO\TrabalhoFinalPOO\TrabalhoFinalPOO\obj\Debug\TrabalhoFinalPOO.pdb

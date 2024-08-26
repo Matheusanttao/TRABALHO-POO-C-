@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TrabalhoFinalPOO</RootNamespace>
+    <AssemblyName>TrabalhoFinalPOO</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Matheus Antão\Desktop\teste\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>1022A79867351195D41CF515197AD72C26B0C2FD</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>TrabalhoFinalPOO_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>flat-vintage-car-icon-8bd3aa.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComprarCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComprarCarro.Designer.cs">
+      <DependentUpon>ComprarCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroVenda.Designer.cs">
+      <DependentUpon>CadastroVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Carro.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="DesfazerCompraDeCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesfazerCompraDeCarro.Designer.cs">
+      <DependentUpon>DesfazerCompraDeCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesfazerVendaDeCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesfazerVendaDeCarro.Designer.cs">
+      <DependentUpon>DesfazerVendaDeCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GerenciadorEstoqueDeCarros.cs" />
+    <Compile Include="ListandoVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListandoVendas.Designer.cs">
+      <DependentUpon>ListandoVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListarEstoqueCarros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarEstoqueCarros.Designer.cs">
+      <DependentUpon>ListarEstoqueCarros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuComprar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuComprar.Designer.cs">
+      <DependentUpon>MenuComprar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarCarro.Designer.cs">
+      <DependentUpon>EditarCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Endereço.cs" />
+    <Compile Include="ExcluirCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcluirCarro.Designer.cs">
+      <DependentUpon>ExcluirCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GerenciadorDeCarros.cs" />
+    <Compile Include="GerenciadorDeClientes.cs" />
+    <Compile Include="GerenciadorDeTransações.cs" />
+    <Compile Include="ListarCarros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarCarros.Designer.cs">
+      <DependentUpon>ListarCarros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuTransação.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuTransação.Designer.cs">
+      <DependentUpon>MenuTransação.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuVendas.Designer.cs">
+      <DependentUpon>MenuVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PesquisarCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesquisarCarro.Designer.cs">
+      <DependentUpon>PesquisarCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroCarro.Designer.cs">
+      <DependentUpon>CadastroCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroCliente.Designer.cs">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarCliente.Designer.cs">
+      <DependentUpon>EditarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExcluirCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcluirCliente.Designer.cs">
+      <DependentUpon>ExcluirCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarClientes.Designer.cs">
+      <DependentUpon>ListarClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU.Designer.cs">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCarro.Designer.cs">
+      <DependentUpon>MenuCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCliente.Designer.cs">
+      <DependentUpon>MenuCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PesquisarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesquisarCliente.Designer.cs">
+      <DependentUpon>PesquisarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PesquisarCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesquisarCompras.Designer.cs">
+      <DependentUpon>PesquisarCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PesquisarVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesquisarVenda.Designer.cs">
+      <DependentUpon>PesquisarVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transação.cs" />
+    <EmbeddedResource Include="ComprarCarro.resx">
+      <DependentUpon>ComprarCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroVenda.resx">
+      <DependentUpon>CadastroVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesfazerCompraDeCarro.resx">
+      <DependentUpon>DesfazerCompraDeCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesfazerVendaDeCarro.resx">
+      <DependentUpon>DesfazerVendaDeCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListandoVendas.resx">
+      <DependentUpon>ListandoVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarEstoqueCarros.resx">
+      <DependentUpon>ListarEstoqueCarros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuComprar.resx">
+      <DependentUpon>MenuComprar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarCarro.resx">
+      <DependentUpon>EditarCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcluirCarro.resx">
+      <DependentUpon>ExcluirCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarCarros.resx">
+      <DependentUpon>ListarCarros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuTransação.resx">
+      <DependentUpon>MenuTransação.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuVendas.resx">
+      <DependentUpon>MenuVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesquisarCarro.resx">
+      <DependentUpon>PesquisarCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroCarro.resx">
+      <DependentUpon>CadastroCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroCliente.resx">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarCliente.resx">
+      <DependentUpon>EditarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcluirCliente.resx">
+      <DependentUpon>ExcluirCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarClientes.resx">
+      <DependentUpon>ListarClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU.resx">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCarro.resx">
+      <DependentUpon>MenuCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCliente.resx">
+      <DependentUpon>MenuCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesquisarCliente.resx">
+      <DependentUpon>PesquisarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesquisarCompras.resx">
+      <DependentUpon>PesquisarCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesquisarVenda.resx">
+      <DependentUpon>PesquisarVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TrabalhoFinalPOO_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="flat-vintage-car-icon-8bd3aa.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

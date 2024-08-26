@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\listarcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\listarcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\listarcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\listarcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|c:\\users\\agf\\desktop\\trabalho poo\\windowsforms\\trabalhofinalpoo\\trabalhofinalpoo\\listarcarros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\listarcarros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|c:\\users\\agf\\desktop\\trabalho poo\\windowsforms\\trabalhofinalpoo\\trabalhofinalpoo\\listarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\listarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\listarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\listarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\pesquisarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\pesquisarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\pesquisarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\pesquisarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\excluircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\excluircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\menucarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\menucarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\menucliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\menucliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\menutransa\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\menutransa\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\excluircarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\excluircarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\excluirtransa\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\excluirtransa\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\editartransa\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\editartransa\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\buscartransa\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\buscartransa\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\cadastrocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\cadastrocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\editarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\editarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\gerenciadordecarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\gerenciadordecarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\gerenciadordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\gerenciadordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\excluircarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\excluircarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\excluircarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\excluircarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\excluircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\excluircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\pesquisarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\pesquisarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\endere\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\endere\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\editarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\editarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\editarcarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\editarcarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\cadastrocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\cadastrocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\menucarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\menucarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\pesquisarcarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\pesquisarcarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\cadastrocarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\cadastrocarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\pesquisarcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\pesquisarcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\trabalhofinalpoo\\pesquisarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9100E2-5768-48A2-AB7B-DD5B62B99CD4}|TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj|solutionrelative:trabalhofinalpoo\\pesquisarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TrabalhoFinalPOO||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListarCarros.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarCarros.Designer.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ListarCarros.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarCarros.Designer.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ListarCarros.Designer.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwEoAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:30:12.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarClientes.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarClientes.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ListarClientes.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarClientes.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ListarClientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:15:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarCarros.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarCarros.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ListarCarros.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarCarros.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ListarCarros.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAiwIIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:15:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\MenuCliente.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\MenuCliente.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\MenuCliente.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\MenuCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:05:51.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListarClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarClientes.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ListarClientes.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarClientes.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ListarClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:02:47.864Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarCarros.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarCarros.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ListarCarros.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ListarCarros.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ListarCarros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:02:16.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExcluirCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCliente.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ExcluirCliente.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCliente.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ExcluirCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:45:46.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuCarro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\MenuCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\MenuCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\MenuCarro.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\MenuCarro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:43:39.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PesquisarCarro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\PesquisarCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCarro.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\PesquisarCarro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:27:35.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PesquisarCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCliente.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\PesquisarCliente.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCliente.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\PesquisarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:35:53.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExcluirCarro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ExcluirCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCarro.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ExcluirCarro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:54:30.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExcluirTransa\u00E7\u00E3o.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirTransa\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ExcluirTransa\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirTransa\u00E7\u00E3o.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ExcluirTransa\u00E7\u00E3o.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:02:07.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditarTransa\u00E7\u00E3o.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarTransa\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\EditarTransa\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarTransa\u00E7\u00E3o.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\EditarTransa\u00E7\u00E3o.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:01:59.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuTransa\u00E7\u00E3o.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\MenuTransa\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\MenuTransa\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\MenuTransa\u00E7\u00E3o.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\MenuTransa\u00E7\u00E3o.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:51:23.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BuscarTransa\u00E7\u00E3o.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\BuscarTransa\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\BuscarTransa\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\BuscarTransa\u00E7\u00E3o.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\BuscarTransa\u00E7\u00E3o.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:00:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CadastroCarro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\CadastroCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCarro.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\CadastroCarro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:30:49.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CadastroCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCliente.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCliente.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\CadastroCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:27:28.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditarCarro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\EditarCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCarro.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\EditarCarro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:35:55.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditarCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCliente.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\EditarCliente.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCliente.cs [Design]",
+              "RelativeToolTip": "TrabalhoFinalPOO\\EditarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:38:18.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GerenciadorDeClientes.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\GerenciadorDeClientes.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\GerenciadorDeClientes.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\GerenciadorDeClientes.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\GerenciadorDeClientes.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:04:30.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GerenciadorDeCarros.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\GerenciadorDeCarros.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\GerenciadorDeCarros.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\GerenciadorDeCarros.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\GerenciadorDeCarros.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:03:55.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExcluirCarro.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ExcluirCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCarro.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ExcluirCarro.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wC0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:54:33.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExcluirCarro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCarro.Designer.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ExcluirCarro.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCarro.Designer.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ExcluirCarro.Designer.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAqwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:36:45.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExcluirCliente.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCliente.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\ExcluirCliente.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\ExcluirCliente.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\ExcluirCliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:45:50.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Endere\u00E7o.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\Endere\u00E7o.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\Endere\u00E7o.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\Endere\u00E7o.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\Endere\u00E7o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:37:35.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CadastroCarro.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\CadastroCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCarro.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\CadastroCarro.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAowFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:30:51.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PesquisarCarro.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\PesquisarCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCarro.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\PesquisarCarro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:27:39.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditarCarro.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\EditarCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCarro.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\EditarCarro.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:40:19.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditarCarro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCarro.Designer.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\EditarCarro.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCarro.Designer.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\EditarCarro.Designer.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAqwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:49:18.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EditarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCliente.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\EditarCliente.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\EditarCliente.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\EditarCliente.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAswJMAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:38:20.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MenuCarro.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\MenuCarro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\MenuCarro.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\MenuCarro.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\MenuCarro.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA6wCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:37:56.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PesquisarCarro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCarro.Designer.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\PesquisarCarro.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCarro.Designer.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\PesquisarCarro.Designer.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAqwPkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:51:26.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCliente.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCliente.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\CadastroCliente.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:04:43.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CadastroCarro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCarro.Designer.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\CadastroCarro.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\CadastroCarro.Designer.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\CadastroCarro.Designer.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAqwC8BAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:54:08.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PesquisarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCliente.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\PesquisarCliente.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCliente.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\PesquisarCliente.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAswFcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:35:56.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PesquisarCliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCliente.Designer.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\PesquisarCliente.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\PesquisarCliente.Designer.cs",
+              "RelativeToolTip": "TrabalhoFinalPOO\\PesquisarCliente.Designer.cs",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAqwGcBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:38:51.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TrabalhoFinalPOO",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj",
+              "RelativeDocumentMoniker": "TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\Trabalho POO\\WINDOWSFORMS\\TrabalhoFinalPOO\\TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj",
+              "RelativeToolTip": "TrabalhoFinalPOO\\TrabalhoFinalPOO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-13T14:27:15.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

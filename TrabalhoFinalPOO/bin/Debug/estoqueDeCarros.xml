@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Carros>
+  <Carro>
+    <Placa>A</Placa>
+    <Marca>AAAAAAAAA</Marca>
+    <Modelo>AAAAAAAAAA</Modelo>
+    <Ano>AAAAAAAA</Ano>
+    <Preço>R$ 1,00</Preço>
+    <Chassi>aaaaaaa</Chassi>
+    <Km>aaa</Km>
+    <Categoria>a</Categoria>
+    <ObservaçõesAdicionais>a</ObservaçõesAdicionais>
+  </Carro>
+  <Carro>
+    <Placa>A</Placa>
+    <Marca>AAAAAAAAA</Marca>
+    <Modelo>AAAAAAAAAA</Modelo>
+    <Ano>AAAAAAAA</Ano>
+    <Preço>R$ 1,00</Preço>
+    <Chassi>aaaaaaa</Chassi>
+    <Km>aaa</Km>
+    <Categoria>a</Categoria>
+    <ObservaçõesAdicionais>a</ObservaçõesAdicionais>
+  </Carro>
+</Carros>
